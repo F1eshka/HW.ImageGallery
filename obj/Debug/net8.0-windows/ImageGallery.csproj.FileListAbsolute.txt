@@ -1,0 +1,16 @@
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\bin\Debug\net8.0-windows\ImageGallery.exe
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\bin\Debug\net8.0-windows\ImageGallery.deps.json
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\bin\Debug\net8.0-windows\ImageGallery.runtimeconfig.json
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\bin\Debug\net8.0-windows\ImageGallery.dll
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\bin\Debug\net8.0-windows\ImageGallery.pdb
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\obj\Debug\net8.0-windows\ImageGallery.Form1.resources
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\obj\Debug\net8.0-windows\ImageGallery.csproj.GenerateResource.cache
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\obj\Debug\net8.0-windows\ImageGallery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\obj\Debug\net8.0-windows\ImageGallery.AssemblyInfoInputs.cache
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\obj\Debug\net8.0-windows\ImageGallery.AssemblyInfo.cs
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\obj\Debug\net8.0-windows\ImageGallery.csproj.CoreCompileInputs.cache
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\obj\Debug\net8.0-windows\ImageGallery.dll
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\obj\Debug\net8.0-windows\refint\ImageGallery.dll
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\obj\Debug\net8.0-windows\ImageGallery.pdb
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\obj\Debug\net8.0-windows\ImageGallery.genruntimeconfig.cache
+C:\Users\Rog\source\repos\ImageGallery\ImageGallery\obj\Debug\net8.0-windows\ref\ImageGallery.dll
